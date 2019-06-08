@@ -1,0 +1,2 @@
+# midi2vmd
+midiファイルからMMD対応vmdファイルを出力するツール
